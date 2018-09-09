@@ -1,0 +1,41 @@
+body{
+    background-image: url(https://aesthetecurator.com/wp-content/uploads/2018/05/whiteboard-powerpoint-background-parksandrecgifs-inside-powerpoint-background-whiteboard.jpg);
+    font-family: 'Amatic SC', cursive;
+    color: black;
+    background-size: 1400px 720px;
+    background-repeat: no-repeat;
+    
+}
+#title{
+    text-align: center;
+}
+#word-display-letters{
+    font-size: 60px;
+    text-align: center;
+    border: 2rem;
+    margin: 20px;
+}
+
+
+#alerts{
+    visibility: hidden;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 40px;
+   
+}
+#general-display{
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.head-style{
+    font-size: 45px;
+    color: blue;
+}
+.body-style{
+    margin-top: 90px;
+    font-size: 20px;
+}
+#letters{
+    font-size: 20px;
+}
